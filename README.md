@@ -2,7 +2,7 @@
 Java Multiplication Table Using Jagged Array
 
 ## Features
-- Multiplication Table of N Number you Enter
+- Generate Multiplication Table of N Number of User Input
 - Printing Multiplication Table using 2D Array
 - Printing Using Jagged Array
 - Easy to Understand Code
@@ -10,21 +10,16 @@ Java Multiplication Table Using Jagged Array
 ## Installation
 - Just, Clone this repository - 
 ````bash 
-git clone https://github.com/SLoharkar/Java-Fibonacci-Program.git
+git clone https://github.com/SLoharkar/Java-Multiplication-Table.git
 ````
-- Copy Code of Recursion.java and Paste on Java Online Compiler https://www.programiz.com/java-programming/online-compiler/ 
+- Copy Code of Array.java and Paste on Java Online Compiler https://www.programiz.com/java-programming/online-compiler/ 
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 
 ## Program Output
-````bash 
-			 First Logic 
-
-0 1 1 2 3 5 8 13 21 34 55 
-
-			 Second Logic 
-
-0 1 1 2 3 5 8 13 21 34 55 
-````
+<p align="left">
+<img align="left" alt="Java Multiplication Table Output" src="java1.png" />
+</p>
+<br></br><br></br>
 
 
 ## Dependencies
